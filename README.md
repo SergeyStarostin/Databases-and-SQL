@@ -1,2 +1,5 @@
 # Databases-and-SQL
-Tools for working with databases
+
+## Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц.
+
+
